@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vilinko-Forms-Bot/Vilinko-Forms-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <image src="hi.png" height="80" width="80"/> </br> Hi, I'm VilinkoFox ~
 
-Here are some ideas to get you started:
+一只对世界充满好奇的小狐狸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+</br>
+</br>
+
+## 🌟 关于我
+> 我是一只喜欢发呆的小狐狸。    
+> 我喜欢在夜里数星星，月亮太远，摸不到，但月光刚好够照亮我的鼻尖。    
+> 有时候，一阵风路过，也许是海的味道，也许是某座城市里，有人也在仰头看同一片天空。    
+> 想了很久，    
+> 我决定出发，没有目的地，只想在路上。    
+> 慢慢走，看看花，踩踩落叶，和路过的蚂蚁打个招呼。    
+> 我承认，世界很大，我有点小。    
+> 但小小的爪印，也能在泥土里留下深深浅浅的记号。
+> 总有一天，我也会变成远方。    
+> 但，在那之前，我会继续做个温柔而勇敢的小狐狸。
+
+</br>
+
+## 🎯 当前目标
+- [x] 成为工作室的吉祥物 ✨
+- [ ] 认识100个新朋友 🌟
+- [ ] 完成第一个开源项目 🚀
+- [ ] 学会用3种语言说"你好" 🌏
+
+</br>
+
+## 📮 来找我玩呀！
+
+| 平台 | 链接 |
+|:---:|:---:|
+| 🏠 工作室 | [Vilinko Studio](https://www.vilinko.com) |
+
+</br>
+</br>
+
+<div align="center">
+  
+很高兴认识你！    
+一起探索这个有趣的世界吧～
+
+</div>
